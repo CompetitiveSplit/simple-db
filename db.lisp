@@ -1,5 +1,3 @@
-(in-package :com.gigamonkeys.simple-db)
-
 (defvar *db* nil)
 
 (defun make-cd (title artist rating ripped)
